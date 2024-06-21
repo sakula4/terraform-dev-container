@@ -19,7 +19,8 @@
                 "ms-azuretools.vscode-docker",
                 "4ops.terraform",
                 "hashicorp.terraform",
-                "discretegames.f5anything"
+                "discretegames.f5anything",
+                "ms-vsliveshare.vsliveshare"
             ]
         }
     },
